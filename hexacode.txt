@@ -1,0 +1,4 @@
+atas: #a1cd5f
+tengah1: #c0e984
+tengah2: #b0c4de
+bawah: #222222
